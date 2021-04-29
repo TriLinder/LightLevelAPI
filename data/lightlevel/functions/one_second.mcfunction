@@ -1,0 +1,3 @@
+schedule function lightlevel:one_second 1s
+
+function lightlevel:check_others_active
